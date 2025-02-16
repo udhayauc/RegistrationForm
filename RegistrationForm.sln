@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RegistrationForm", ".", "{107DD352-E0B2-4EAA-98D6-257DAD31A453}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58776"
+		Debug.AspNetCompiler.PhysicalPath = "E:\Personal Projects\Bow and baan\RegistrationForm\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58776\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58776"
+		Release.AspNetCompiler.PhysicalPath = "E:\Personal Projects\Bow and baan\RegistrationForm\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58776\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58776"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107DD352-E0B2-4EAA-98D6-257DAD31A453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107DD352-E0B2-4EAA-98D6-257DAD31A453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B32437AD-29B0-4BCB-9B83-AAD89CE1A5CA}
+	EndGlobalSection
+EndGlobal

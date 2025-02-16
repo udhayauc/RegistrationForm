@@ -1,0 +1,12 @@
+﻿body {
+}
+
+.error-text {
+    color: #f00;
+}
+
+.required-field {
+    color: #f00;
+    font-size: 7px !important;
+    vertical-align: super;
+}
